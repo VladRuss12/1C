@@ -1,0 +1,37 @@
+# Кэш форм и служебные файлы (обычно в папке с выгрузкой)
+*.cm
+*.cml
+*.bin
+*.cfs
+*.cf
+*.cfe
+*.dt
+*.cfu
+*.ch
+*.log
+
+# Файлы внешней обработки/отчета
+*.erf
+*.epf
+
+# Файлы, которые могут создаваться при работе с версиями
+*.v8cp
+*.v8d
+
+# Файлы, используемые 1С:Enterprise Development Tools (EDT)
+.project
+.settings/
+
+### СЛУЖЕБНЫЕ ФАЙЛЫ СИСТЕМЫ И РЕДАКТОРОВ ###
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# MacOS
+.DS_Store
+
+# IDE / Редакторы
+*.bak
+*.tmp
+*~
