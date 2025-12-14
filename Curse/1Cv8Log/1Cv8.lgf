@@ -59,4 +59,5 @@
 {4,"_$Access$_.AccessDenied",23},
 {5,1461cd98-d9cd-406d-942d-58b7b3180a7e,"Обработка.ВводСписанияБонусов",17},
 {4,"_$InfoBase$_.DumpStart",24},
-{4,"_$InfoBase$_.DumpFinish",25}
+{4,"_$InfoBase$_.DumpFinish",25},
+{4,"_$InfoBase$_.DBConfigUpdateError",26}
