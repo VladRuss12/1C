@@ -35,3 +35,7 @@ Desktop.ini
 *.bak
 *.tmp
 *~
+
+# Временные файлы Microsoft Word
+~$*.doc
+~$*.docx
